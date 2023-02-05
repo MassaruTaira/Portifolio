@@ -22,7 +22,7 @@ const ProjectItem: React.FC<ProjectProps> = ({ title, type, slug, img }) => {
       <button type="button">
         <Link href={`projects/${slug}`}>
           <a>
-            Ver mais <AiOutlineRightCircle />
+            See more<AiOutlineRightCircle />
           </a>
         </Link>
       </button>

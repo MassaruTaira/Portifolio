@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import styled from 'styled-components';
 import SectionTitle from '../SectionTitle';
 import ProjectItem from './ProjectItem';
 import { Container } from './styles';
